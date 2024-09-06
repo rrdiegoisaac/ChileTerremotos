@@ -7,6 +7,7 @@
     El objetivo de este proyecto es entender la relación entre variables sísmicas como magnitud y profundidad, así como su distribución temporal y geográfica.</span>
 </ul>
  
+<span style='font-size:18px; font-family:Roboto;'>El Jupyter Notebook con el análisis detallado se encuentra en: <a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">terremotos2000-2024.ipynb</a></span>
 
 # <div style="padding:20px;color:white;margin:0;font-size:30px;font-family:Roboto;text-align:left;display:fill;border-radius:5px;background-color:#14213d;overflow:hidden; border-left: 10px solid #fca311;">Conclusiones (También disponibles en el Jupyter Notebook)</div>
 
